@@ -9,8 +9,8 @@
     "compress",
     "bot"
   ],
-  "success_url": "",
-  "website": "",
+  "success_url": "www.google.com",
+  "website": "www.google.com",
   "repository": "https://github.com/AbirHasan2005/VideoCompress",
   "env": {
     "ENV": {
